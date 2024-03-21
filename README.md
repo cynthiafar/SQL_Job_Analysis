@@ -50,8 +50,7 @@ Datasets can be found in the following location:
 https://sqliteviz.com/app/#/workspace
 
 Graphs can be found in the following location: 
-
-Please feel free to see my complete project at the following: 
+https://github.com/cynthiafar/SQl_Project_Data_Job_Analysis/tree/ff45012fa977a83be2d05946efd576e7693425b2/Graphs
 
 The entire code for the following project can be found here: 
 
