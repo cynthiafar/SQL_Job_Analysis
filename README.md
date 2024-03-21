@@ -5,15 +5,15 @@ After completing my master’s in data Analytics I landed my dream job, however,
 
 ## Purpose
 The purpose of this Analysis is to investigate the following: 
- (1)	What are the Top Paying Job for Data Analysis
- (2)	What Skills are in demand? 
- (3)	What skills are correlated with higher salaries? 
+- (1)	What are the Top Paying Job for Data Analysis
+- (2)	What Skills are in demand?
+- (3)	What skills are correlated with higher salaries? 
 ## Tools
- •	SQL 
- •	Postgre SQL 
- •	Visual Studio Code (VSC) 
- •	Git 
- •	GitHub
+ -	SQL 
+ -	Postgre SQL 
+ -	Visual Studio Code (VSC) 
+ -	Git 
+ - GitHub
 
 ## Analysis
 ### Looking into the data it appears as if Top paying jobs within the industry based off an average yearly salary are as follows: 
@@ -22,13 +22,13 @@ The purpose of this Analysis is to investigate the following:
  -	Associate Director-Data Insight ($255,830)
 
 ### The Data is displaying the top skills in demand:
- •	The pie chart indicates SQL and Python are the most in demand skills required for Data Analytics. 
+ -	The pie chart indicates SQL and Python are the most in demand skills required for Data Analytics. 
  
 
 ### The skills correlated with the higher salaries are: 
- •	Swift ($153,750)
- •	Go ($145,000)
- •	Shell ($125,000)
+ -	Swift ($153,750)
+ -	Go ($145,000)
+ -	Shell ($125,000)
 
 Based off further research the top three Skills associated with the top salary are programming languages that appear to be associated with website development, and Data Science Engineering. It should be noted that although a good handful of the languages that are included in the demographics of data analytics, the top 3 are more advanced skills that are used as your carrier progresses. 
 
