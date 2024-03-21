@@ -45,7 +45,11 @@ Interesting finds based off the data indicate that although SQL is leading the m
 
 
 ## Additional Information 
-Graphs and Data Set can be found in the following location: 
+
+Datasets can be found in the following location: 
+https://sqliteviz.com/app/#/workspace
+
+Graphs can be found in the following location: 
 
 Please feel free to see my complete project at the following: 
 
