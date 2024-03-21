@@ -17,9 +17,9 @@ The purpose of this Analysis is to investigate the following:
 
 ## Analysis
 ### Looking into the data it appears as if Top paying jobs within the industry based off an average yearly salary are as follows: 
- •	Data Analyst ($650,000) 
- •	Director of Analytics ($336,500)
- •	Associate Director-Data Insight ($255,830)
+ -	Data Analyst ($650,000) 
+ -	Director of Analytics ($336,500)
+ -	Associate Director-Data Insight ($255,830)
 
 ### The Data is displaying the top skills in demand:
  •	The pie chart indicates SQL and Python are the most in demand skills required for Data Analytics. 
