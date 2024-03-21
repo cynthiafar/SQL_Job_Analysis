@@ -53,10 +53,11 @@ Graphs can be found in the following location:
 https://github.com/cynthiafar/SQl_Project_Data_Job_Analysis/tree/ff45012fa977a83be2d05946efd576e7693425b2/Graphs
 
 The entire code for the following project can be found here: 
+https://github.com/cynthiafar/SQl_Project_Data_Job_Analysis/blob/6c24090e585eb834f97bfeb07dcc2a47266d2ff5/PROJECT_SQL/SQL_Code_5%20Questions.sql
 
 
 ## Further Research
-The data set I utilized was from 2023 and market increases in payment should be taken into consideration.  The data was obtained from _____ Further research should investigate data across multiple platforms such as ____, _____, and ____. In addition, it should be noted that correlation does not equal causation, and the recent relationship between job pay increases is not reflected in the data set. 
+The data set I utilized was from 2023 and market increases in payment should be taken into consideration.  The data was obtained from 2023 Further research should investigate data across multiple platforms such as Linkdin, Indeed, and Ziprecruiter. In addition, it should be noted that correlation does not equal causation, and the recent relationship between job pay increases is not reflected in the data set. 
 
 ## Disclaimer
 Due to company confidentiality, this data set is fictitious and is used only for the purposes of displaying the knowledge I contain along with the different skills I possess as a Data Scientist. 
